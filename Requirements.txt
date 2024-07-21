@@ -1,0 +1,2 @@
+Install the required module Selenium
+Download the chrome driver
